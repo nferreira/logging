@@ -3,6 +3,6 @@ module github.com/nferreira/logging
 go 1.15
 
 require (
-	github.com/nferreira/app v0.1.14
+	github.com/nferreira/app v0.1.15
 	go.uber.org/zap v1.15.0 
 )
